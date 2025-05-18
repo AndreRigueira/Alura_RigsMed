@@ -9,6 +9,8 @@ Projeto da Imersão IA Alura + Gemini - RigsMed
 
 O RigsMed é uma aplicação simples, desenvolvida em Python utilizando o Google Colab e a inteligência artificial Gemini, com o objetivo de facilitar a busca por médicos e clínicas de uma especialidade específica em uma determinada localidade. Através da análise da reputação online, a IA apresenta uma lista dos profissionais e estabelecimentos mais bem avaliados.
 
+Você pode Votar no meu projeto, no seguinte link: https://discord.com/channels/1369193715989614684/1369193716434337849/1373456149197619242
+
 ## ⚙️ Funcionalidades Principais
 
 * **Busca por Localidade:** O usuário informa a cidade ou região desejada.
